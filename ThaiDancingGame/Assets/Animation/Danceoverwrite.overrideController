@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Danceoverwrite
+  m_Controller: {fileID: 9100000, guid: 99cabb8581158324c8ccd8199d871352, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 3f21599222f526f4a88a6f6aad993c09, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 50ebf953c07873745917547c086c9452, type: 3}
